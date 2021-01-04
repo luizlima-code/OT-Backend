@@ -1,4 +1,4 @@
-package com.orangetalents.OrangeTalents;
+package br.com.luizlimacode.orangetalents;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
